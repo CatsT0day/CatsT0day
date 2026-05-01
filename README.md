@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi!
+### welcome to my basement, wait, sorry, i mean home
+in here you can find:
+  - my open-source projects
+  - my contributions
+### My current projects:
+Lynx - highly opimized mc core
+Eclipse - the all in one project, made to replace deprecated ones!
 
-<!--
-**CatsT0day/CatsT0day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### How to contact me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+contact me on discord: @c4atst0day
