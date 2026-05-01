@@ -4,8 +4,8 @@ in here you can find:
   - my open-source projects
   - my contributions
 ### My current projects:
-**Lynx - highly opimized mc core**
-**Eclipse - the all in one project, made to replace deprecated ones!**
+#### Lynx - highly opimized mc core
+#### Eclipse - the all in one project, made to replace deprecated ones!
 
 
 ### How to contact me:
