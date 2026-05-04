@@ -1,13 +1,13 @@
-# Hi!
-### welcome to my basement, wait, sorry, i mean home
-in here you can find:
-  - my open-source projects
-  - my contributions
+# Hi! 
+Welcome to my basement... wait, sorry, I mean home.
+
+### What can see here here:
+* 🛠️ **Open-source projects**
+* 🤝 **My contributions** - [CMI-API](https://github.com/Zrips/CMI-API)
+
 ### My current projects:
-#### Puma - highly opimized mc server core
-#### Eclipse - the all in one project, API, 40+ commands, made to replace deprecated ones!
+* **[Puma]** — Highly optimized Minecraft server core.
+* **[Eclipse]** — The all-in-one project: API & 40+ commands designed to replace deprecated alternatives.
 
-
-### How to contact me:
-
-contact me on discord: @c4atst0day
+### Get in touch:
+* **Discord:** `@c4atst0day`
