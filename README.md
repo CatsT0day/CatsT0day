@@ -1,5 +1,5 @@
 # Hi! 
-Welcome to my basement... wait, sorry, I mean home. 🏠
+Welcome to my basement... wait, sorry, I mean home.
 
 ### What you can see here:
 * 📂 **My open-source projects**
