@@ -1,13 +1,13 @@
 # Hi! 
-Welcome to my basement... wait, sorry, I mean home.
+Welcome to my basement... wait, sorry, I mean home. 🏠
 
-### What can see here here:
-* 🛠️ **Open-source projects**
-* 🤝 **My contributions** - [CMI-API](https://github.com/Zrips/CMI-API)
+### What you can see here:
+* 📂 **My open-source projects**
+* 🤝 **My contributions** — [CMI-API](https://github.com/Zrips/CMI-API/pull/62)
 
-### My current projects:
-* **[Puma]** — Highly optimized Minecraft server core.
-* **[Eclipse]** — The all-in-one project: API & 40+ commands designed to replace deprecated alternatives.
+### My current focus:
+* 🚀 **[Puma](https://github.com/CatsT0day/Puma)** — Highly optimized Minecraft server core.
+* 🌑 **[Eclipse](https://github.com/CatsT0day/Eclipse)** — The all-in-one project: API, 40+ commands, custom TNT's, and Bottled Exp. Designed to replace deprecated alternatives.
 
-### Get in touch:
-* **Discord:** `@c4atst0day`
+### Contact me:
+* 💬 **Discord:** [@c4atst0day](https://discord.com/users/1238449769571942502)
