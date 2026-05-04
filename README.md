@@ -4,8 +4,8 @@ in here you can find:
   - my open-source projects
   - my contributions
 ### My current projects:
-#### Lynx - highly opimized mc core
-#### Eclipse - the all in one project, made to replace deprecated ones!
+#### Puma - highly opimized mc server core
+#### Eclipse - the all in one project, API, 40+ commands, made to replace deprecated ones!
 
 
 ### How to contact me:
