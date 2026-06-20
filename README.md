@@ -7,7 +7,7 @@ Welcome to my basement... wait, sorry, I mean home.
 
 ### My current projects:
 *   **[Puma](https://github.com/CatsT0day/Puma)** — Highly optimized Minecraft server core.
-*   **[Eclipse](https://github.com/CatsT0day/Eclipse)** — The all-in-one project: API, 40+ commands, custom TNT's, and Bottled Exp. Designed to replace deprecated alternatives.
+*   **[Eclipse](https://github.com/CatsT0day/Eclipse)** — The all-in-one project: API, 50+ commands, custom TNT's, and Bottled Exp. Designed to replace deprecated alternatives.
   
 
 ### Contact me:
